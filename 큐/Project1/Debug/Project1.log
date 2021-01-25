@@ -1,0 +1,5 @@
+﻿  11.c
+D:\김효리\한성대\2020 겨울방학\알고리즘\큐\Project1\11.c(98,17): warning C4013: 'tolower'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\김효리\한성대\2020 겨울방학\알고리즘\큐\Project1\11.c(118,4): warning C4033: 'palindrome'은(는) 값을 반환해야 합니다.
+D:\김효리\한성대\2020 겨울방학\알고리즘\큐\Project1\11.c(122): warning C4716: 'palindrome': 값을 반환해야 합니다.
+  Project1.vcxproj -> D:\김효리\한성대\2020 겨울방학\알고리즘\큐\Project1\Debug\Project1.exe
